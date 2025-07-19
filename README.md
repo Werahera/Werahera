@@ -1,11 +1,11 @@
-## Hi there 👋
+# Hi there, I'm W.W.Y.R.Lakshanga! 👋
 
-<!--
-Hi my name is W.W.Y.R.Lakshanga. I am from University of Moratuwa taking BS Information Technology.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a undergraduate passionate about coding...
 
-- 🔭 I’m currently working on this page...
-- 🌱 I’m currently learning C Programming...
-- 📫 How to reach me: weraheraweerasekara@gmail.com...
--->
+I'm from University of Moratuwa taking BSc. Information Technology...
+
+- 🔭 I'm currently working on this page.
+- 🌱 I'm currently learning C Programming.
+- 📫 How to reach me: weraheraweerasekara@gmail.com
